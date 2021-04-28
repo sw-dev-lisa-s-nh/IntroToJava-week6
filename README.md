@@ -7,17 +7,18 @@ These were the original requirements for the assignment!
 
 1.  Created the following classes:  
 
-       Cards 
+        Cards 
               Fields:  value 2-Ace & name Ace of Diamonds or Two of Hearts
-              Methods:  Getters & Setters, & describe
+              Methods:  Getters, Setters & describe
 
         Deck
               Fields:  cards (List of Card)
-              Methods:  shuffle, draw, constructor (which instantiates a new Deck)
+              Methods:  shuffle, draw, & a constructor (which instantiates a new Deck)
               
         Player
               Fields:  hand (List of Card), score (initialized to 0 in the constructor) & name
-              Methods:  describe (includes the hand), flip, draw, & incrementScore.
+              Methods:  describe (includes calling the card.describe method for each care in the hand), 
+                        flip, draw, & incrementScore.
                       
 
 2.  Created a class called App with a main method.
