@@ -1,7 +1,7 @@
 # IntroToJava-week6
 BESD BootCamp Coding Assignment 6
 
-For the final project you will be creating an automated version of the classic card game WAR.
+Our FINAL Java Project was to create an automated version of the classic card game WAR.
 
 These were the original requirements for the assignment!
 
